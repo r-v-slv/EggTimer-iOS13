@@ -1,14 +1,5 @@
- Weather app + API calls (https://openweathermap.org/api)
+Egg boiling timer
 
-In this app I use Api calls to get weather data and present it to user interface
+![Egg timer app](https://github.com/r-v-slv/EggTimer-iOS13/blob/32fbb6643bac0d344d9926e951008f93d819e323/Egg.png))
 
-For the moment I work to update the App in order to get User location by default
-In case if user didn`t allowed permision to app to get location, it could be obtained by clicking on GeoLocationButton
-
-MainView
-![Weather app](https://github.com/r-v-slv/WeatherApp/blob/a38e8010986c977d3a577f32527d7753aba6798a/WeatherApp/DetailedView.png)
-
-[](https://github.com/r-v-slv/WeatherApp/blob/a38e8010986c977d3a577f32527d7753aba6798a/WeatherApp/DetailedView.png)
-
-(WeatherApp/DetailedView.png)
 
